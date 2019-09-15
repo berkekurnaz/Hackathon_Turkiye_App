@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "361414535480",
+    "firebase_url": "https://boiga-cyanea.firebaseio.com",
+    "project_id": "boiga-cyanea",
+    "storage_bucket": "boiga-cyanea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361414535480:android:08286f8a7f72c1a5bf39cd",
+        "android_client_info": {
+          "package_name": "com.hackathon.hackathon_turkiye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361414535480-o77g2tb2onbljqesutjf02o9ls9rslqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBawe86PxDd1E-okrRH_fWwH-LP2GYqq9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361414535480-o77g2tb2onbljqesutjf02o9ls9rslqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
